@@ -9,6 +9,10 @@ We love the stack and want to create a resource that identifies these companies 
 ## Company List
 
 * [Trigger.dev](https://trigger.dev/) | Effortless automation built for developers
+* [Wealthfront](https://www.wealthfront.com/) | Save and invest for the long term. Whatever the market brings.
+* [Loom](https://www.loom.com/) | Loom on. Meetings off. Record quick videos to update your team and cut down meetings by 29%
+* [The Verge](https://www.theverge.com/) | The Verge is about technology and how it makes us feel
+
 
 
 ## Job Board
