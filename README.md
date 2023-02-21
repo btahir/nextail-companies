@@ -1,7 +1,7 @@
 # Nextail Companies
 
 <div>
-  <img src="logos.png">
+  <img src="nextail-logo.png">
 </div>
 
 A list of companies (or teams) that use Next.js + Tailwind CSS as their primary Frontend tech stack.
