@@ -24,6 +24,7 @@ We love the stack and want to create a resource that identifies these companies 
 ### Nextjs + Other
 * [Upstash](https://upstash.com/) | Serverless Data for Redsis & Kafka
 * [Linear](https://linear.app/) | Linear is a better way to build products
+* [Hashnode](https://hashnode.com/) | Blogging community for developers
 
 ### TailwindCSS + Other
 * [Fly.io](https://fly.io/) | Deploy App Servers Close to Your Users
