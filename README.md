@@ -19,6 +19,7 @@ We love the stack and want to create a resource that identifies these companies 
 * [Supabase](https://supabase.com/) | Supabase is an open source Firebase alternative
 * [Lexica](https://lexica.art/) | The Stable Diffusion search engine
 * [PlaygroundAI](https://playgroundai.com/) | Playground AI is a free-to-use online AI image creator
+* [Play.ht](https://play.ht/) | AI powered text to voice generator
 
 ### Nextjs + Other
 * [Upstash](https://upstash.com/) | Serverless Data for Redsis & Kafka
@@ -26,6 +27,7 @@ We love the stack and want to create a resource that identifies these companies 
 
 ### TailwindCSS + Other
 * [Fly.io](https://fly.io/) | Deploy App Servers Close to Your Users
+* [ElevenLabs](https://beta.elevenlabs.io/) | The most realistic and versatile AI speech software, ever.
 
 ## Job Board
 Find Next.js + Tailwind CSS jobs [here](https://nextailjobs.jobboardly.com/).
