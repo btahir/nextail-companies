@@ -1,2 +1,7 @@
-# nextail-companies
-⭐️ Companies that use Next.js + Tailwind CSS
+# Nextail Companies
+
+A list of companies (or teams) that don't ise Next.js + Tailwind CSS as their primary Frontend tech stack.
+
+##Comapny List
+
+• One
