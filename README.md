@@ -2,11 +2,13 @@
 
 # Nextail Companies 
 
-A list of companies (or teams) that use Next.js + Tailwind CSS as their primary Frontend tech stack.
+A list of companies (or teams) that use Next.js and/or Tailwind CSS as their primary Frontend tech stack.
 
 We love the stack and want to create a resource that identifies these companies to aid you in your discovery process (investment, job hunt etc).
 
 ## Company List
+
+### Nextjs + TailwindCSS
 
 * [Trigger.dev](https://trigger.dev/) | Effortless automation built for developers
 * [Wealthfront](https://www.wealthfront.com/) | Save and invest for the long term
@@ -18,6 +20,12 @@ We love the stack and want to create a resource that identifies these companies 
 * [Lexica](https://lexica.art/) | The Stable Diffusion search engine
 * [PlaygroundAI](https://playgroundai.com/) | Playground AI is a free-to-use online AI image creator
 
+### Nextjs + Other
+* [Upstash](https://upstash.com/) | Serverless Data for Redsis & Kafka
+* [Linear](https://linear.app/) | Linear is a better way to build products
+
+### TailwindCSS + Other
+* [Fly.io](https://fly.io/) | Deploy App Servers Close to Your Users
 
 ## Job Board
 Find Next.js + Tailwind CSS jobs [here](https://nextailjobs.jobboardly.com/).
