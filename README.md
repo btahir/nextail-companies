@@ -15,6 +15,8 @@ We love the stack and want to create a resource that identifies these companies 
 * [Planetscale](https://planetscale.com/) | PlanetScale is the world’s most advanced serverless MySQL platform
 * [Uberduck](https://uberduck.ai/) | The Open Source Voice AI Community
 * [Supabase](https://supabase.com/) | Supabase is an open source Firebase alternative
+* [Lexica](https://lexica.art/) | The Stable Diffusion search engine
+* [PlaygroundAI](https://playgroundai.com/) | Playground AI is a free-to-use online AI image creator
 
 
 ## Job Board
