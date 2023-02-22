@@ -11,6 +11,7 @@ We love the stack and want to create a resource that identifies these companies 
 ### Nextjs + TailwindCSS
 
 * [Trigger.dev](https://trigger.dev/) | Effortless automation built for developers
+* [highlight.io](https://highlight.io/) | The Open Source, Fullstack Monitoring Platform
 * [Wealthfront](https://www.wealthfront.com/) | Save and invest for the long term
 * [Loom](https://www.loom.com/) | Record quick videos to update your team and cut down meetings by 29%
 * [The Verge](https://www.theverge.com/) | The Verge is about technology and how it makes us feel
