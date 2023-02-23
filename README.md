@@ -21,6 +21,7 @@ We love the stack and want to create a resource that identifies these companies 
 * [Lexica](https://lexica.art/) | The Stable Diffusion search engine
 * [PlaygroundAI](https://playgroundai.com/) | Playground AI is a free-to-use online AI image creator
 * [Play.ht](https://play.ht/) | AI powered text to voice generator
+* [Ping](https://ping.gg/) | Do collab shows just like the pros
 
 ### Nextjs + Other
 * [Upstash](https://upstash.com/) | Serverless Data for Redsis & Kafka
